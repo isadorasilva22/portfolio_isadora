@@ -53,6 +53,16 @@ const PROJETOS = [
     tags: ["HTML", "CSS", "JavaScript", "GitHub Pages"],
     emoji: "🦖",
   },
+  {
+    titulo: "Beth Atelier",
+    descricao:
+      "Cat\u00e1logo online do Beth Atelier, com pe\u00e7as feitas \u00e0 m\u00e3o e link direto para o Instagram.",
+    publicado: true,
+    url: "https://bethathelier.netlify.app/catalogo",
+    imagem: "img/beth-atelier-preview.png",
+    tags: ["HTML", "CSS", "JavaScript", "Netlify"],
+    emoji: "\ud83e\uddf6",
+  },
 
   // ------------------------------------------------------------ Não publicados
   {
